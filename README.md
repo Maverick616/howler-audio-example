@@ -1,3 +1,5 @@
-# Simple example of audio with Howler
+# Howler Audio Exercise
 
-An empty webpage for HTML/CSS/JavaScript exercises.
+A Simple example of audio with Howler.
+
+[Howler Audio Example](https://bitter-trusting-chipmunk.glitch.me/)
